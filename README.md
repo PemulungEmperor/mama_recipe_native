@@ -1,8 +1,7 @@
 # Ankasa Ticketing : a team project as the implementation of our learning about ReactJS
 Welcome to our project! This is project is Responsive web application about booking ticketing and build with ReactJS bootstrap and tailwind. Users can create account, login, update image, update profile, search for flight schedule, and see the detail ticket. Also there's admin page which can add, update, and delete a flight, if you want to become admin change the role of your user with "admin". And lastly this project is still under futher development
 
-![splashscreen](https://github.com/PemulungEmperor/mama_recipe_native/assets/76174871/b23d3e2a-64ed-4bf7-be5a-e451c981f6a4) ![loginscreen](https://github.com/PemulungEmperor/mama_recipe_native/assets/76174871/97f05e88-8331-4d7c-b700-ee7814963c0b)
-![homescreen](https://github.com/PemulungEmperor/mama_recipe_native/assets/76174871/f7b1459f-3921-48ad-8c4d-f986c7267851) ![profile](https://github.com/PemulungEmperor/mama_recipe_native/assets/76174871/2794ef42-7d22-4e36-8aff-929bef4aa8cc)
+![All](https://github.com/PemulungEmperor/mama_recipe_native/assets/76174871/7ac61372-7c2d-4f2f-af6e-07c56df07b20)
 
 
 
