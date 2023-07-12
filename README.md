@@ -51,7 +51,7 @@ Metro will run then press "a" button to start your emulator immediately
 If you want to use the features locally make sure you already setting the environment / database
     
 ## Build / APK
-If you want to try install the apk, here is it the :
+If you want to try install the apk, here is it the : https://drive.google.com/file/d/1KfpyJZNh_URb76UUbXe-ICdv7ZXBI00S/view?usp=sharing
 *notes this still under development , and the files/photo store in backend so it will not show yet, best solution is to store in cloud storage
 
 ## Author
